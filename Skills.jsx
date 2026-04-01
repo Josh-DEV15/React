@@ -66,7 +66,7 @@ function Skills(){
                 <div className="skill">
                     <div className="skill-header">
                         <FaDatabase size={30} style={{ marginRight: '8px' }} />
-                        <span>Database</span>
+                        <span>MongoDB</span>
                         <span>65%</span>
                     </div>
                     <div className="skill-bar">
