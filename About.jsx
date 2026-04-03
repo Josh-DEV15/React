@@ -4,7 +4,7 @@ import './About.css';
 
 function About(){
     return(
-        <div className="About">
+        <div className="about">
             <h2 style={{ color: 'white' }}>I'm a self-taught web developer <br/>
                 Skilled in javascript,react,html and css , <br/>
                 i enjoy building web applications
